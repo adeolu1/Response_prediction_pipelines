@@ -1,0 +1,16 @@
+id	filename	md5	size	state
+41fd4c6c-2932-4c6b-914f-7abaea9dc8a0	nationwidechildrens.org_ssf_tumor_samples_brca.txt	f694515fd191ab8d3c0b073e6f2fc7cb	353327	released
+43569ab9-5a32-45ef-a07e-e93f45416a16	nationwidechildrens.org_biospecimen_shipment_portion_brca.txt	2a79ad158a204d1af81108b178280bea	154614	released
+c10090b8-fa42-4e32-86a0-9dedceb5b605	nationwidechildrens.org_biospecimen_slide_brca.txt	039253c77a6125842558ba2a20ec5187	417578	released
+950ee56c-df20-4b39-867e-c73f17d0f4f6	nationwidechildrens.org_biospecimen_aliquot_brca.txt	518662abcb430af9704a29d32e596c4b	2561498	released
+37282667-0d47-4344-9c3e-e09c97287fe6	TCGA-A8-A09E-01Z-00-DX1.239A8E03-49EA-4C29-AF86-FC1BD8A9DB20.svs	56c9fadfe765ee4469b2a04286fc0fda	297944310	released
+a24d7574-e419-47ce-9293-b9b29f854a10	nationwidechildrens.org_biospecimen_protocol_brca.txt	8528185ddd57118e0109dd50d1f48303	789503	released
+c5039e7e-14d8-4e59-ba20-0d3fa38b86df	nationwidechildrens.org_biospecimen_sample_brca.txt	0fa678866ff3f85a842d821463c8c5d6	1005255	released
+9919d9e8-27c5-4e73-9cd9-0d130c619e7d	nationwidechildrens.org_biospecimen.TCGA-A8-A09E.xml	ce83fedb95fa073d3a82fcbee57a2963	87060	released
+edbb5de2-d0b5-4a07-a0e1-19e952a5117d	nationwidechildrens.org_biospecimen_diagnostic_slides_brca.txt	4dce72daab60c6b11c5973b421ea35f0	118858	released
+eb4c4440-6009-4301-9016-bd90b06e439e	TCGA-A8-A09E-01A-01-TS1.cd6ea8c1-5427-4be5-9ccf-8fdc40249000.svs	fab5bcaae22abfc746da5864e5f6f0b9	498672813	released
+d0c967b5-78ee-4bc4-9493-3cbe44af1bf5	nationwidechildrens.org_biospecimen_analyte_brca.txt	103577529e4355cfd0a5da055ea5a403	1728468	released
+fb29bf59-4f15-4440-a690-7579fd81b5ef	nationwidechildrens.org_ssf.TCGA-A8-A09E.xml	3de2ff674b13917979e5013c32dfff58	15719	released
+22656b71-476a-4b5f-9f3b-82afb29a34bc	nationwidechildrens.org_biospecimen_portion_brca.txt	1700cc8fa282635235473bac179ef2c5	358732	released
+5907be67-69f6-4339-8264-952a2462bea5	nationwidechildrens.org_ssf_normal_controls_brca.txt	f5b49c0103a9f1dc12555f4eb0c8dfaa	217642	released
+06814857-79b6-47d8-8501-e39f7fc4466b	TCGA-A8-A09E-01A-01-BS1.132ec21b-efd0-4a1a-88a1-af3c615e4647.svs	5691a0a8228ebd3cfeb6e5a7b58101da	605289055	released
