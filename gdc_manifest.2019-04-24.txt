@@ -14,3 +14,4 @@ fb29bf59-4f15-4440-a690-7579fd81b5ef	nationwidechildrens.org_ssf.TCGA-A8-A09E.xm
 22656b71-476a-4b5f-9f3b-82afb29a34bc	nationwidechildrens.org_biospecimen_portion_brca.txt	1700cc8fa282635235473bac179ef2c5	358732	released
 5907be67-69f6-4339-8264-952a2462bea5	nationwidechildrens.org_ssf_normal_controls_brca.txt	f5b49c0103a9f1dc12555f4eb0c8dfaa	217642	released
 06814857-79b6-47d8-8501-e39f7fc4466b	TCGA-A8-A09E-01A-01-BS1.132ec21b-efd0-4a1a-88a1-af3c615e4647.svs	5691a0a8228ebd3cfeb6e5a7b58101da	605289055	released
+men are good
